@@ -108,5 +108,5 @@ http://localhost:3000
 **Mohamed Fahim U**
 
 * GitHub: https://github.com/mohamedfahim18
-* LinkedIn: https://linkedin.com/in/mohamed-fahim-u
+* LinkedIn: https://www.linkedin.com/in/mohamed-fahim-82529736b
 * 
